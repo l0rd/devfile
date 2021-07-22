@@ -1,6 +1,6 @@
 # devfile v1
 
-[![Contribute](https://www.eclipse.org/che/factory-contribute.svg)](https://che.openshift.io/f?url=https://github.com/redhat-developer/devfile)
+[![Contribute](https://www.eclipse.org/che/factory-contribute.svg)](https://workspaces.openshift.com/f?url=https://github.com/redhat-developer/devfile)
 
 This repository contains the specs, docs and examples of the Devfile v1.
 
